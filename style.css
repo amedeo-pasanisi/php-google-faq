@@ -1,0 +1,14 @@
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 60%;
+    padding: 50px 0;
+    margin: auto;
+    line-height: 30px;
+}
+
+.faq {
+    margin-bottom: 60px;
+}
